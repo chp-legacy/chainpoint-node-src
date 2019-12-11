@@ -1,4 +1,10 @@
+# Important Notice
+
+This software is deprecated and is no longer supported. 
+
 # Chainpoint Node Source
+
+[![Deprecation Notice](https://img.shields.io/badge/deprecated-legacy-lightgrey)](https://github.com/tnt-legacy)
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
