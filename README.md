@@ -64,7 +64,7 @@ Node Dashboard Password Scenarios:
 
 ## Node Public API
 
-Every Node provides a public HTTP API. This is documented in greater detail on the [Node HTTP API wiki](https://github.com/chainpoint/chainpoint-node/wiki/Node-HTTP-API)
+Every Node provides a public HTTP API. This is documented in greater detail on the [Node HTTP API wiki](https://github.com/tnt-legacy/chainpoint-node/wiki/Node-HTTP-API)
 
 ## License
 
