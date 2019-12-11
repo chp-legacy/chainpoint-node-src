@@ -26,7 +26,7 @@ If you want to run your own Chainpoint Node please instead
 see the following repository which provides installation
 and run instructions.
 
-[https://github.com/chainpoint/chainpoint-node](https://github.com/chainpoint/chainpoint-node)
+[https://github.com/tnt-legacy/chainpoint-node](https://github.com/tnt-legacy/chainpoint-node)
 
 ## Development
 
